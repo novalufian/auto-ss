@@ -1,0 +1,20 @@
+{
+  "input": [
+    
+    {
+      "type": "mobile",
+      "site": "dream",
+      "placement": "headline_grow"
+    },
+    {
+      "type": "mobile",
+      "site": "liputan6",
+      "placement": "headline_grow"
+    },
+    {
+      "type": "mobile",
+      "site": "bolacom",
+      "placement": "headline_grow"
+    }
+  ]
+}

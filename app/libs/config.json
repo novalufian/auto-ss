@@ -1,0 +1,90 @@
+{
+  "kly_config" : {
+    "mobile" : {
+      "kapanlagi" : {
+        "topframe" : "div-gpt-ad-kapanlagi-topfrm-oop",
+        "bottomframe" : "div-gpt-ad-kapanlagi-bottomfrm",
+        "showcase" : "div-gpt-ad-kapanlagi-sc",
+        "wallboard" : "div-gpt-ad-kapanlagi-sc",
+        "overlay" : "div-gpt-ad-dfp-overlay-oop",
+        "liftads" : "div-gpt-ad-dfp-overlay-oop",
+        "floating_pin" : "div-gpt-ad-dfp-overlay-oop",
+        "headline" : "div-gpt-ad-kapanlagi-hl",
+        "headline_grow" : "div-gpt-ad-kapanlagi-hl",
+        "exposer" : "div-gpt-ad-kapanlagi-dfp-exposer-slot1-oop",
+        "seamless" : "div-gpt-ad-kapanlagi-dfp-exposer-slot1-oop"
+      },
+      "merdeka" : {
+        "topframe" : "div-gpt-ad-merdeka-topfrm-oop",
+        "bottomframe" : "div-gpt-ad-merdeka-bottomfrm",
+        "showcase" : "div-gpt-ad-merdeka-sc",
+        "wallboard" : "div-gpt-ad-merdeka-sc",
+        "overlay" : "div-gpt-ad-dfp-overlay-oop",
+        "liftads" : "div-gpt-ad-dfp-overlay-oop",
+        "floating_pin" : "div-gpt-ad-dfp-overlay-oop",
+        "headline" : "div-gpt-ad-merdeka-hl",
+        "headline_grow" : "div-gpt-ad-merdeka-hl",
+        "exposer" : "div-gpt-ad-merdeka-dfp-exposer-slot1-oop",
+        "seamless" : "div-gpt-ad-merdeka-dfp-exposer-slot1-oop"
+      },
+      "bolanet" : {
+        "topframe" : "div-gpt-ad-bola-topfrm-oop",
+        "bottomframe" : "div-gpt-ad-bola-bottomfrm",
+        "showcase" : "div-gpt-ad-bola-sc",
+        "wallboard" : "div-gpt-ad-bola-sc",
+        "overlay" : "div-gpt-ad-dfp-overlay-oop",
+        "headline" : "div-gpt-ad-bola-hl",
+        "exposer" : "div-gpt-ad-bola-dfp-exposer-slot1-oop"
+      },
+      "dream" : {
+        "topframe" : "div-gpt-ad-dream-topfrm-oop",
+        "bottomframe" : "div-gpt-ad-dream-bottomfrm",
+        "showcase" : "div-gpt-ad-dream-sc",
+        "wallboard" : "div-gpt-ad-dream-sc",
+        "overlay" : "div-gpt-ad-dfp-overlay-oop",
+        "liftads" : "div-gpt-ad-dfp-overlay-oop",
+        "floating_pin" : "div-gpt-ad-dfp-overlay-oop",
+        "headline" : "div-gpt-ad-dream-hl",
+        "headline_grow" : "div-gpt-ad-dream-hl",
+        "exposer" : "div-gpt-ad-dream-dfp-exposer-slot1",
+        "seamless" : "div-gpt-ad-dream-dfp-exposer-slot1"
+      },
+      "otosia" : {
+        "topframe" : "div-gpt-ad-otosia-topfrm-oop",
+        "topframevideo" : "div-gpt-ad-otosia-topfrm-oop",
+        "bottomframe" : "div-gpt-ad-otosia-bottomfrm",
+        "showcase" : "div-gpt-ad-otosia-sc",
+        "wallboard" : "div-gpt-ad-otosia-sc",
+        "overlay" : "div-gpt-ad-dfp-overlay-oop",
+        "headline" : "div-gpt-ad-otosia-hl",
+        "exposer" : "div-gpt-ad-otosia-dfp-exposer-slot1-oop"
+      },
+      "liputan6" : {
+        "topframe" : "div-gpt-ad-liputan6-topfrm-oop",
+        "bottomframe" : "div-gpt-ad-liputan6-bottomfrm",
+        "showcase" : "div-gpt-ad-liputan6-sc",
+        "wallboard" : "div-gpt-ad-liputan6-sc",
+        "overlay" : "div-gpt-ad-dfp-overlay-oop",
+        "liftads" : "div-gpt-ad-dfp-overlay-oop",
+        "floating_pin" : "div-gpt-ad-dfp-overlay-oop",
+        "headline" : "div-gpt-ad-liputan6-hl",
+        "headline_grow" : "div-gpt-ad-liputan6-hl",
+        "exposer" : "div-gpt-ad-liputan6-dfp-exposer-oop",
+        "seamless" : "div-gpt-ad-liputan6-dfp-exposer-oop"
+      },
+      "bolacom" : {
+        "topframe" : "div-gpt-ad-bolacom-topfrm-oop",
+        "bottomframe" : "div-gpt-ad-bolacom-bottomfrm",
+        "showcase" : "div-gpt-ad-bolacom-sc",
+        "wallboard" : "div-gpt-ad-bolacom-sc",
+        "overlay" : "div-gpt-ad-dfp-overlay-oop",
+        "liftads" : "div-gpt-ad-dfp-overlay-oop",
+        "floating_pin" : "div-gpt-ad-dfp-overlay-oop",
+        "headline" : "div-gpt-ad-bolacom-hl",
+        "headline_grow" : "div-gpt-ad-bolacom-hl",
+        "exposer" : "div-gpt-ad-bolacom-dfp-exposer-oop",
+        "seamless" : "div-gpt-ad-bolacom-dfp-exposer-oop"
+      }
+    }
+  }
+}
